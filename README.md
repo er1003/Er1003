@@ -3,12 +3,13 @@
 </haeder>
 
 # 🪛🖥️ Eric C. 
+
 <div class="intro">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer🖥️;%20Focused%20Front-end.%20&font=Fira%20Code&center=true&width=440&height=45&color=E6E6FA&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer!;%20Focused%20Front-end.%20&font=Fira%20Code&center=true&width=440&height=45&color=E6E6FA&vCenter=true&pause=1000&size=22" />
 </div>
  
 <div class="Repoitory">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;%20%20Welcome%20to%20my%20repository&font=Fira%20Code&center=true&width=440&height=45&color=40E0D0&vCenter=true&pause=1000&size=15" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;%20Welcome%20to%20my%20repository&font=Fira%20Code&center=true&width=440&height=45&color=40E0D0&vCenter=true&pause=1000&size=15" />
     <p>Me chamo eric e sou um progarmador iniciante na área de </p>
     <img src="https://readme-typing-svg.demolab.com/?lines=D.S.M.;%20Desenvolvimento.%20Software.%20Multiplataforma.&font=Fira%20Code&&width=440&height=45&color=40E0D0&v&pause=1000&size=15" />  
     <p> Fique avontade para acessar os icones abaixos e conhecer um pouco mais sobre meus trabalho e projetos.😊</p>
@@ -57,4 +58,3 @@ Se você precisa de um front-end para impulsionar seu projeto, é só me chamar�
   </a>&nbsp;
   </div>
 
-  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
